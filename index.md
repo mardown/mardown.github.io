@@ -12,6 +12,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url" onmouseover="<script>alert(1)</script>) and ![Image](src)
+ 
+[Link](url) and ![Image](src)
 "</article><script>alert(1)</script>
