@@ -13,5 +13,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
  
-[Link](url)</a><script>alert(1)</script>) and ![Image](src)
-"</article><script>alert(1)</script>
+[Link](url) and ![Image](src)
+"</article>
